@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/fmanimashaun-green)
 
-# To Do list
+# Webpack 5 boilerplate with Sass
 
 ## Overview
 
