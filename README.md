@@ -11,13 +11,13 @@ This is a simple webpack 5 boilerplate for a static website using Sass and reset
 
 ## DEMO LINK
 
-> [Live Demo Link](https://fmanimashaun.github.io/To-do-List/)
+> [Live Demo Link](https://fmanimashaun.github.io/webpack-boilerplate/)
 
 ## Screenshots
 
 <h3 align="center">Screenhot</h3>
 <p align="center">
-  <img width="500" src="screenshot/demo.png">
+  <img width="500" src="#">
 </P>
 
 ## Built With
